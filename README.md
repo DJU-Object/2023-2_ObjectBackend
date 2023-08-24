@@ -35,6 +35,7 @@ git config user.email "Your email address"
 ```
 
 ### 깃허브에 파일 저장하기
+add -> commit -> push 순서대로 진행해 주세요
 #### 파일 추가
 ```
 git add <파일이름>
