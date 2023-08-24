@@ -17,7 +17,7 @@ git clone https://github.com/jucheolkang/2023-2_ObjectBackend.git
 ```
 git checkout -b my-branch-xx
 ```
-3. 아래 사전 미션 내용을 보고 답안을 마크다운 형식으로 작성하시고, `./{폴더이름}/{nickName}` 디렉토리 저장해주세요.
+3. 과제를 작성하시고, `./{폴더이름}/{nickName}` 디렉토리 저장해주세요.
 
 4. 해당 브랜치를 푸쉬해주세요.
 ```
