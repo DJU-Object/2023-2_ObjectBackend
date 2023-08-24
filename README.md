@@ -34,7 +34,7 @@ git config user.name “Your name”`
 git config user.email "Your email address"
 ```
 
-### 깃허브랑 파일 연결하기
+### 깃허브랑 폴더 연결하기
 ```
 git remote add origin <깃허브 주소>
 ```
