@@ -26,7 +26,7 @@ git push -u origin my-branch-xx
 5. Pull Request를 생성하여, 사전 미션을 제출해주세요.
 
 
-## 2.git 사용 방법
+## 2. git 사용 방법
 
 ### 사용자 등록
 ```
