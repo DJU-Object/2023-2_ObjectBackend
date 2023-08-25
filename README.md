@@ -6,7 +6,7 @@
 ### 방법 1
 1. 해당 repository를 fork 하세요.
 2. 로컬에서 작업한 커밋을 fork한 repository에 push 하세요.
-5. Pull Request를 생성하여, 사전 미션을 제출해주세요.
+5. Pull Request를 생성하여, 과제를 제출해주세요.
 
 ### 방법 2
 1. 해당 repository를 clone 하세요:
@@ -23,7 +23,7 @@ git checkout -b my-branch-xx
 ```
 git push -u origin my-branch-xx
 ```
-5. Pull Request를 생성하여, 사전 미션을 제출해주세요.
+5. Pull Request를 생성하여, 과제 제출해주세요.
 
 
 ## 2. git 사용 방법
@@ -34,7 +34,7 @@ git config user.name “Your name”`
 git config user.email "Your email address"
 ```
 
-### 깃허브랑 파일 연결하기
+### 깃허브랑 폴더 연결하기
 ```
 git remote add origin <깃허브 주소>
 ```
