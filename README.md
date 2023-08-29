@@ -15,13 +15,13 @@ git clone https://github.com/jucheolkang/2023-2_ObjectBackend.git
 ```
 2. 별도의 브랜치를 생성하세요:
 ```
-git checkout -b my-branch-xx
+git checkout -b <새 브렌치 이름>
 ```
 3. 과제를 작성하시고, `./{폴더이름}/{nickName}` 디렉토리 저장해주세요.
 
 4. 해당 브랜치를 푸쉬해주세요.
 ```
-git push -u origin my-branch-xx
+git push -u origin <새 브렌치 이름>
 ```
 5. Pull Request를 생성하여, 과제 제출해주세요.
 
