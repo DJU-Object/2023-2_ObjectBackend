@@ -60,5 +60,3 @@ git push -u origin <브렌치 이름>
 ```
 git pull origin <브렌치 이름>
 ```
-## 3. git 다운로드
-https://git-scm.com/downloads
