@@ -13,10 +13,18 @@
 
 ### 사용자 등록
 ```
-git config user.name “Your name”`
-git config user.email "Your email address"
+git config user.name "<Your name>"
+git config user.email <Your email address>
 ```
-
+### 사용자 등록 삭제
+```
+git config --global --unset user.name "<Your name>"
+git config --global --unset user.email <Your email address>
+```
+### 사용자 등록 확인
+```
+git config --global --list
+```
 ### 깃허브랑 폴더 연결하기
 ```
 git remote add origin <깃허브 주소>
