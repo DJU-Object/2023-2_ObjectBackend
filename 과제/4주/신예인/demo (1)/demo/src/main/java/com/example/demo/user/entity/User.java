@@ -27,6 +27,8 @@ public class User {
     @Column(name="NAME")
     private String name;
 
+    @Column
+    private boolean UserUse = true;
     @Builder
     public User(String id,String pw,String email,String name){
         this.id=id;
@@ -34,6 +36,17 @@ public class User {
         this.email=email;
         this.name=name;
 
+    }
+
+    public void update(String pw,String email, String name){
+        this.pw=pw;
+        this.email=email;
+        this.name=name;
+
+    }
+
+    public void changeUse(boolean Useruse){
+        this.UserUse=Useruse;
     }
 
 

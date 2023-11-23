@@ -19,7 +19,7 @@ public class UserSavedto {
         this.name=name;
 
     }
-    public User toentity(){
+  /*  public User toentity(){
         return User.builder()
                 .id(id)
                 .pw(pw)
@@ -28,7 +28,7 @@ public class UserSavedto {
                 .build();
 
 
-    }
+    }*/
 
 
 
